@@ -30,3 +30,5 @@ total_bill_after_split = round((total_bill_float + percent) / split_int, 2)
 
 # Print variable "total_biaya_after_split" untuk mrngetahui berapa jumlah uang yang harus dibayarkan oleh masing-masing orang dan tambahkan string keterangannya
 print(f'Each person should pay: \n${total_bill_after_split}')
+
+# Done !
